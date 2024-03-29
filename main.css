@@ -1,0 +1,47 @@
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body {
+  background-color: #606060;
+}
+
+div{
+background-color: #ffffff; 
+ width: 1200;
+ position: absolute;
+ left: 400px;
+ top: 100px;
+}
+
+
+.conteiner{
+  border: 1px solid #ddd8d8;
+  border-radius: 10px;
+  padding: 60px;
+}
+
+form#form input{
+  border: 1px solid #606060;
+  border-radius: 8px;
+  position: relative;
+  align-content: center;
+  align-items: center;  
+  margin: 10px;
+  display: block;
+  padding: 10px;
+} 
+
+form h1{
+  font-size: 30px;
+  padding: 5px;
+  position: relative;
+  top: -20px;
+  left: -0px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 30px;
+
+
+}
